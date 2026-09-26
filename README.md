@@ -7,7 +7,7 @@ A Python CLI application for managing student records using JSON file storage, b
 
 ## 📁 Project Structure
 
-```
+```text
 student-management-system/
 │
 ├── main.py          # CLI interface & menu logic
@@ -84,4 +84,3 @@ Student records are stored in `students.json`:
 
 **Huda Ahmed**  
 [GitHub](https://github.com/huda-ahmed-elsayed) · [LinkedIn](https://linkedin.com/in/huda-ahmed-elsayed)
-```
